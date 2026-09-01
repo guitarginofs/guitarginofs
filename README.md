@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">CS student highly interested in back-end, AI and cybersecurity.</p>
+<p data-importer="text" align="left">CS student highly interested in cybersecurity.</p>
 
 ###
 
