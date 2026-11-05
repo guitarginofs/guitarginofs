@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">CS student highly interested in cybersecurity.</p>
+<p data-importer="text" align="left">security analyst</p>
 
 ###
 
